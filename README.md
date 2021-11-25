@@ -4,7 +4,7 @@
 
 本仓库主要用于收集个人学习路程中整理收集的资料。
 
-大量书籍 PDF 采取云盘存储方式，默认密码为 hfut
+大量书籍 PDF 采取云盘存储方式，**默认密码为 hfut**
 
 主要目的是给后续学生提供一个参考资料~ 为后续学生铺路~
 
@@ -14,4 +14,4 @@
 
 ## 友情接接
 
-温柔的风狮子：[HFUT-EISAT-Homework](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)
+1. 温柔的风狮子：[HFUT-EISAT-Homework](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)
