@@ -7,3 +7,4 @@
 1. [普通物理学第七版上册](https://www.lanzouw.com/b02ohfsqd)
 2. [普通物理学第七版下册](https://www.lanzouw.com/b02ohfsqd)
 3. [普通物理学第七版习题分析与解答](https://www.lanzouw.com/b02ohfsqd)
+3. [普通物理学思考题分析与扩展 第六版](https://www.lanzouw.com/b02ohfsqd)
