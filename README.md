@@ -45,3 +45,7 @@
 ## 友情接接
 
 1. 温柔的风狮子：[HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)
+
+																																	        by 洛莉莉
+
+
