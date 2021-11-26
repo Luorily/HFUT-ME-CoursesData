@@ -9,7 +9,7 @@
 - 纯个人资料收集项目，如果又补充或支持也欢迎提 issues ，我会及时处理。
 - 如果涉及到版权问题，请发送邮件到：luorilychen@outlook ，我会及时删除。
 
-## 资料目录
+## 课程目录
 
 #### 大一上
 
@@ -45,7 +45,4 @@
 ## 友情接接
 
 1. 温柔的风狮子：[HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)
-
-																																	        by 洛莉莉
-
 
