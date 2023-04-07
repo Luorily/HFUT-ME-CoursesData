@@ -1,4 +1,3 @@
-chcp 65001
 @echo off
 
 git config --local user.name "luorily"
@@ -9,7 +8,7 @@ echo Default:只是一点微小的贡献
 set /p input=git commit -m 
 
 git add *
-git commit -m %input%
+git commit -m "%input%"
 git push
 
 pause
