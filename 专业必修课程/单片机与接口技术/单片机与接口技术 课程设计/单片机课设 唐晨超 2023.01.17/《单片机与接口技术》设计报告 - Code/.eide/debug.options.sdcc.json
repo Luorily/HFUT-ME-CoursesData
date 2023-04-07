@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "beforeBuildTasks": [],
+    "afterBuildTasks": [],
+    "global": {
+        "device": "mcs51",
+        "$one-module-per-function": false,
+        "optimize-type": "speed",
+        "use-non-free": false
+    },
+    "c/cpp-compiler": {
+        "language-c": "c99"
+    },
+    "asm-compiler": {},
+    "linker": {
+        "$mainFileName": "main",
+        "output-format": "hex"
+    }
+}
